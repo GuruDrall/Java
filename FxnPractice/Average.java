@@ -18,8 +18,10 @@ public class Average {
 
         System.out.println("Enter 1st Number ");
         double a = sc.nextDouble();
+
         System.out.println("Enter 2nd Number ");
         double b = sc.nextDouble();
+
         System.out.println("Enter 3rd Number ");
         double c = sc.nextDouble();
 
