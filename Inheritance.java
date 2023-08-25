@@ -1,4 +1,5 @@
 import javax.sound.sampled.SourceDataLine;
+import FxnPractice.Average;
 
 class Parent1 {
     String a = "Parent1's a";
@@ -55,6 +56,7 @@ public class Inheritance {
         c2.printInfo();
         System.out.println("======C3======");
         c3.printInfo();
+        Average.PrintAverage(3.4, 4.5, 6.7);
 
         // System.out.println(p.a);
 
